@@ -1,8 +1,11 @@
 import React from 'react';
 import { Text, View } from 'react-native';
 import { MotiView } from 'moti';
+
+// components
 import { UserPhoto } from '../UserPhoto';
 
+// styles
 import { styles } from './styles';
 
 export type MessageProps = {

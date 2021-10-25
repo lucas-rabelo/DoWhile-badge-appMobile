@@ -2,6 +2,7 @@ import React from 'react';
 import { Text, TouchableOpacity, TouchableOpacityProps, ColorValue, ActivityIndicator } from 'react-native';
 import { AntDesign } from '@expo/vector-icons';
 
+// styles
 import { styles } from './styles';
 
 type Props = TouchableOpacityProps & {
